@@ -7,7 +7,7 @@ I’m a **Full-Stack Software Engineer** passionate about designing and developi
 My expertise spans:
 
 🔹 **Full-Stack Development:**  
-  **Backend:** Skilled in **Django**, **Express**, and **Node.js**, designing and developing scalable and efficient server-side applications.
+ - **Backend:** Skilled in **Django**, **Express**, and **Node.js**, designing and developing scalable and efficient server-side applications.
   **Frontend:** Proficient in **React.js**, **React Native**, and **Next.js**, delivering dynamic, user-centric interfaces across platforms.
 
  🔹 **IoT Applications:**  
