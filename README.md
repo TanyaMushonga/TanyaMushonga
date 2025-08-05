@@ -1,25 +1,25 @@
-# 👨‍💻 Hi there, I'm Tanyaradzwa T Mushonga!  
+# Hi there, I'm Tanyaradzwa T Mushonga!  
 
-## 💫 About Me:
+## About Me:
 
 I’m a **Full-Stack Software Engineer** passionate about designing and developing scalable, robust, and impactful applications — from **modern web and mobile platforms** to **IoT solutions**.
 
 My expertise spans:
 
-🔹 **Full-Stack Development:**  
- - **Backend:** Skilled in **Django**, **Express**, and **Node.js**, designing and developing scalable and efficient server-side applications.
-  **Frontend:** Proficient in **React.js**, **React Native**, and **Next.js**, delivering dynamic, user-centric interfaces across platforms.
+**Full-Stack Development:**  
+**Backend:** Skilled in **Django**, **Express**, and **Node.js**, designing and developing scalable and efficient server-side applications.
+**Frontend:** Proficient in **React.js**, **React Native**, and **Next.js**, delivering dynamic, user-centric interfaces across platforms.
 
- 🔹 **IoT Applications:**  
-  - Hands-on experience with **Arduino**, **ESP32**, and sensors, building prototypes that connect the physical and digital worlds.
+**IoT Applications:**  
+Hands-on experience with **Arduino**, **ESP32**, and sensors, building prototypes that connect the physical and digital worlds.
 
-- 🔹 **DevOps & Cloud:**  
-  - Experience with **Docker**, **Github Actions**, **Kubernetes**, and AWS services, designing and maintaining scalable and reliable infrastructures.
+**DevOps & Cloud:**  
+Experience with **Docker**, **Github Actions**, **Kubernetes**, and AWS services, designing and maintaining scalable and reliable infrastructures.
 
-- 🔹 **AI Integration:**  
-  - Integrating **AI solutions** into applications — from **ChatGPT-like services** to custom ML models — adding valuable automation and personalization.
+**AI Integration:**  
+Integrating **AI solutions** into applications — from **ChatGPT-like services** to custom ML models — adding valuable automation and personalization.
 
-🚀 My mission is to leverage my combined knowledge of **full stack, IoT, Cloud, and AI technologies** to create solutions that solve real-world problems and provide a rich user experience.
+My mission is to leverage my combined knowledge of **full stack, IoT, Cloud, and AI technologies** to create solutions that solve real-world problems and provide a rich user experience.
 
 ---
 
@@ -55,18 +55,9 @@ My expertise spans:
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repositories
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=TanyaMushonga&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=TanyaMushonga&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-🚀 **Let's connect and collaborate on exciting projects!**
+**Let's connect and collaborate on exciting projects!**
