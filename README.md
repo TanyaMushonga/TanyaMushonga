@@ -1,12 +1,16 @@
-# Hi there, I'm Tanyaradzwa T. Mushonga! 👋
+<div align="center">
+  <img src="header.png" alt="Tanyaradzwa T. Mushonga - Frontend & Mobile Specialist Banner" width="100%" />
+</div>
 
-## Frontend Engineer | Mobile Developer (React Native)
+<h1 align="center">Hi there, I'm Tanyaradzwa T. Mushonga! 👋</h1>
+
+<h2 align="center">Frontend Engineer | Mobile Developer (React Native)</h2>
 
 I am a **Specialized Frontend Engineer** focused on building high-performance, pixel-perfect web and mobile interfaces. While I possess a robust background in full-stack engineering, my true passion and expertise lie in the **React Ecosystem**.
 
 I bridge the gap between design and technical implementation, using **Next.js** for SEO-friendly web applications and **React Native** for cross-platform mobile solutions.
 
-### Why Me?
+### 🚀 Why Me?
 I am not just a UI developer; I am a **T-shaped engineer**. My strong foundation in Backend (Django/Node.js) and DevOps (Docker/AWS) allows me to:
 * Architect frontends that consume APIs efficiently.
 * Debug complex data flows across the full stack.
@@ -14,18 +18,18 @@ I am not just a UI developer; I am a **T-shaped engineer**. My strong foundation
 
 ---
 
-## Core Competencies:
+## 🛠️ Core Competencies:
 
-### Frontend & Web (Primary Focus)
+### 🖥️ Frontend & Web (Primary Focus)
 * **Modern Web:** Advanced proficiency in **Next.js** (SSR/SSG), **React.js**, and **TypeScript**.
 * **State Management:** Managing complex application states for seamless user experiences.
 * **UI/UX Implementation:** Translating designs into responsive, interactive, and accessible code.
 
-### Mobile Development
+### 📱 Mobile Development
 * **Cross-Platform:** Building native-feeling apps for iOS and Android using **React Native**.
 * **Performance:** Optimizing lists, animations, and memory usage for mobile devices.
 
-### Backend & Infrastructure (Supporting Skills)
+### ⚙️ Backend & Infrastructure (Supporting Skills)
 * **Server-Side:** Capable of building and maintaining APIs using **Node.js**, **Express**, and **Django**.
 * **DevOps:** Experience setting up CI/CD pipelines with **GitHub Actions** and containerizing apps with **Docker** and **Kubernetes**.
 
@@ -67,9 +71,13 @@ I am not just a UI developer; I am a **T-shaped engineer**. My strong foundation
 
 ---
 
+<div align="center">
+
 ### Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=TanyaMushonga&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **Let's connect and collaborate on your next interface!**
+
+</div>
