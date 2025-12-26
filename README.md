@@ -2,46 +2,44 @@
   <img src="header.png" alt="Tanyaradzwa T. Mushonga - Frontend & Mobile Specialist Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Tanyaradzwa T. Mushonga! 👋</h1>
+<h1 align="start">Hi there, I'm Tanyaradzwa T. Mushonga</h1>
 
-<h2 align="center">Frontend Engineer | Mobile Developer (React Native)</h2>
+<h2 align="start">Frontend Engineer | Mobile Developer (React Native)</h2>
 
-I am a **Specialized Frontend Engineer** focused on building high-performance, pixel-perfect web and mobile interfaces. While I possess a robust background in full-stack engineering, my true passion and expertise lie in the **React Ecosystem**.
+I am a **Specialized Frontend Engineer** dedicated to architecting and building high-performance, pixel-perfect web and mobile interfaces. While I possess a robust background in full-stack engineering, my primary expertise and passion lie within the **React Ecosystem**.
 
-I bridge the gap between design and technical implementation, using **Next.js** for SEO-friendly web applications and **React Native** for cross-platform mobile solutions.
+I bridge the critical gap between design concepts and technical implementation, leveraging **Next.js** to create SEO-friendly, server-rendered web applications and **React Native** to deliver native-feeling, cross-platform mobile solutions.
 
-### 🚀 Why Me?
-I am not just a UI developer; I am a **T-shaped engineer**. My strong foundation in Backend (Django/Node.js) and DevOps (Docker/AWS) allows me to:
-* Architect frontends that consume APIs efficiently.
-* Debug complex data flows across the full stack.
-* Optimize deployment pipelines for frontend assets.
+### Why Me?
+I am not just a UI developer; I am a **T-shaped engineer**. My strong foundation in backend technologies (Django, Node.js) and DevOps practices (Docker, AWS) provides a significant advantage in frontend development, allowing me to:
+* Architect frontend applications that consume complex APIs efficiently and securely.
+* Independently debug intricate data flows across the entire application stack, from database to UI.
+* Optimize build processes and deployment pipelines specifically for frontend assets, ensuring faster delivery and better performance.
 
----
+## Core Competencies
 
-## 🛠️ Core Competencies:
+### Frontend & Web (Primary Focus)
+* **Modern Web Architecture:** Advanced proficiency in building scalable applications using **Next.js** (leveraging SSR, SSG, and ISR for optimal performance), **React.js**, and **TypeScript** for robust, type-safe codebases.
+* **Complex State Management:** Expertise in managing application state across complex user flows using modern libraries and context APIs to ensure seamless user experiences.
+* **UI/UX Implementation:** Skilled at translating high-fidelity design mockups into responsive, interactive, and accessible code that adheres to web standards across all devices.
 
-### 🖥️ Frontend & Web (Primary Focus)
-* **Modern Web:** Advanced proficiency in **Next.js** (SSR/SSG), **React.js**, and **TypeScript**.
-* **State Management:** Managing complex application states for seamless user experiences.
-* **UI/UX Implementation:** Translating designs into responsive, interactive, and accessible code.
+### Mobile Development
+* **Cross-Platform Solutions:** Proven ability to build native-feeling mobile applications for both iOS and Android using a single codebase with **React Native**.
+* **Performance Optimization:** Experienced in optimizing mobile application performance, including efficient list rendering, smooth animations, and managing memory usage on constrained devices.
 
-### 📱 Mobile Development
-* **Cross-Platform:** Building native-feeling apps for iOS and Android using **React Native**.
-* **Performance:** Optimizing lists, animations, and memory usage for mobile devices.
-
-### ⚙️ Backend & Infrastructure (Supporting Skills)
-* **Server-Side:** Capable of building and maintaining APIs using **Node.js**, **Express**, and **Django**.
-* **DevOps:** Experience setting up CI/CD pipelines with **GitHub Actions** and containerizing apps with **Docker** and **Kubernetes**.
+### Backend & Infrastructure (Supporting Skills)
+* **Server-Side Development:** Capable of designing, building, and maintaining RESTful APIs using **Node.js**, **Express**, and **Django** to support frontend requirements.
+* **DevOps & Deployment:** Practical experience in setting up automated CI/CD pipelines using **GitHub Actions** and containerizing applications with **Docker** and **Kubernetes** for reliable and scalable deployments.
 
 ---
 
-## 🌐 Socials:
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanyaradzwa-t-mushonga-b23745209/)
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack
 
 ### Frontend & Mobile
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -78,6 +76,6 @@ I am not just a UI developer; I am a **T-shaped engineer**. My strong foundation
 
 [![](https://visitcount.itsvg.in/api?id=TanyaMushonga&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Let's connect and collaborate on your next interface!**
+**Let's connect and collaborate on your next interface.**
 
 </div>
