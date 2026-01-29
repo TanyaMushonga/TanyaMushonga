@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="header.png" alt="Tanyaradzwa T. Mushonga - Frontend & Mobile Specialist Banner" width="100%" />
-</div>
+</div> -->
 
 <h1 align="start">Hi there, I'm Tanyaradzwa T. Mushonga</h1>
 
